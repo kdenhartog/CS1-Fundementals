@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=startCordX
+comment1.target=int[]\ drawTriangleX(int)
+comment1.text=\n\ Method\ drawTriangleX\n\n\ @param\ startCordX\:\ the\ starting\ X\ coordinate\ to\ find\ other\ points\n\ @return\ int[]\ of\ x\ coordinates\n
+comment2.params=startCordY
+comment2.target=int[]\ drawTriangleY(int)
+comment2.text=\n\ Method\ drawTriangleY\n\n\ @param\ startCordY\ the\ starting\ Y\ cordinate\ to\ find\ other\ points\n\ @return\ int[]\ of\ Y\ values\n
+numComments=3

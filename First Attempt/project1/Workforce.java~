@@ -1,0 +1,14 @@
+public class Workforce{
+ 
+  public addWorkers(){
+  
+    addWorkers()+4;
+    
+    return  addWorker();
+  }
+  
+  public setWorkerSalary(){
+  
+  }
+}
+  

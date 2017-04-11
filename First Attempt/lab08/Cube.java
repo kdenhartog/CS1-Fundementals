@@ -1,0 +1,46 @@
+//CS180 - Lab08: Inheritance and Interfaces Part 1
+
+/**
+ * A class that represents a Box with a Square base (using the Square class).
+ */
+public class Cube extends Cuboid {
+ /**
+  * Constructor, creates a cube (all sides have the same length).
+  * 
+  * @param sideLength
+  */
+ public Cube(double sideLength) {
+  super(sideLength, sideLength, sideLength);
+ }
+
+
+ /**
+  * Getter
+  * @return the cube side length.
+  */
+ public double getSideLength(){
+  double sideLength = getLength();
+  
+  return sideLength;
+ }
+ 
+ /**
+  * This will return a string that represents the cube information.
+  * 
+  * <pre>
+  * Cube: side length: _, volume: _, surface area: _
+  * </pre>
+  * 
+  * Where all the _ are to be filled by the cube's corresponding info.
+  * 
+  * @return the box's information String.
+  */
+ @Override
+ public String toString() {
+  // TODO: Fill here and change return value if necessary.
+   String string = "Cube: side length: " + getSideLength() + ", volume: " + computeVolume() + ", surface area: " + computeSurfaceArea();
+  // TODO: reuse methods already implemented whenever possible.
+  // keyword.
+  return string;
+ }
+}

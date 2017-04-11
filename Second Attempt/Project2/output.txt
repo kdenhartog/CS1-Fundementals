@@ -1,0 +1,32 @@
+Student Name        Test Score Average  Letter Grade        
+Bob Dylan           81.0                B                   
+Joan Jett           75.3                C                   
+Sherman Alexie      80.0                B-                  
+Martha Stewart      88.0                B                   
+Abel Baker          80.5                B-                  
+George Howe         83.3                B                   
+Amelia Earhart      76.0                C                   
+Indira Gandhi       74.8                C                   
+Mohammed Ali        74.0                C                   
+Burt Bacharach      88.8                B                   
+Abigail Adams       68.5                D                   
+Woody Guthrie       65.8                D                   
+Marlon Perkins      79.3                C+                  
+Elizabeth Moscou    69.3                D+                  
+Oliver Kent         71.8                C                   
+Susan Irwin         68.5                D                   
+Henry Holloway      80.5                B-                  
+Evelyn O'Connor     69.5                D+                  
+Robin Lee           77.3                C                   
+Jackie Kelly        75.5                C                   
+Morgan Madison      68.3                D                   
+Lu Lin              74.5                C                   
+Jamie Mackey        68.3                D                   
+Eddie Grant         76.5                C                   
+Justin Ray          74.0                C                   
+
+Class Averages
+Test 1  Test 2  Test 3  Test 4  
+77.3    71.9    74.9    78.1    
+
+

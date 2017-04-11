@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lab10()
+comment1.params=array\ num
+comment1.target=int\ search(int[],\ int)
+comment2.params=array\ num
+comment2.target=int\ binarySearch(int[],\ int)
+comment3.params=array
+comment3.target=int[]\ sort(int[])
+comment4.params=x\ y
+comment4.target=int\ midPoint(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

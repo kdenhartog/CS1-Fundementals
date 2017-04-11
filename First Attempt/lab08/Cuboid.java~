@@ -1,0 +1,139 @@
+//CS180 - Lab08: Inheritance and Interfaces Part 1
+
+/**
+ * This class represents a rectangular cuboid. A cuboid has a Box shape.
+ * 
+ * @see <a
+ *      href="http://en.wikipedia.org/wiki/Cuboid#Rectangular_cuboid">http://en.wikipedia.org/wiki/Cuboid#Rectangular_cuboid</a>
+ */
+public class Cuboid {
+	/**
+	 * The cuboid length.
+	 */
+	private double length;
+
+	/**
+	 * The cuboid width.
+	 */
+	private double width;
+
+	/**
+	 * The cuboid height.
+	 */
+	private double height;
+
+	/**
+	 * Constructor.
+	 * 
+	 * @param length
+	 * @param width
+	 * @param height
+	 */
+	public Cuboid(double length, double width, double height) {
+		// TODO: Fill here.
+		baselength = length;
+		height = height;
+	}
+
+	/**
+	 * Constructor overload.
+	 * 
+	 * @param baseLength
+	 * @param height
+	 */
+	public Cuboid(double baselength, double height) {
+		// TODO: Fill here.
+	}
+
+	/**
+	 * Getter.
+	 * 
+	 * @return the length.
+	 */
+	public double getLength() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Getter.
+	 * 
+	 * @return the width.
+	 */
+	public double getWidth() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Getter.
+	 * 
+	 * @return the height.
+	 */
+	public double getHeight() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Computes the area of the Square.
+	 * 
+	 * @return computed area.
+	 */
+	public double computeSurfaceArea() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Computes the volume of the cuboid.
+	 * 
+	 * @return computed volume.
+	 */
+	public double computeVolume() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Compute the weight. In case of density = 1, the weight is equal to volume
+	 * (in metric units).
+	 * 
+	 * @return weight for density = 1
+	 */
+	public double computeWeight() {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * Method overload. Compute the weight. In case of density != 1, the weight
+	 * is equal to volume times density (in metric units).
+	 * 
+	 * @param density
+	 *            Cuboid density
+	 * @return computed weight for given density
+	 */
+	public double computeWeight(double density) {
+		// TODO: Fill here and change return value if necessary.
+		return 0.0;
+	}
+
+	/**
+	 * This will return all of Cuboid's information in a String format as
+	 * follow:
+	 * 
+	 * <pre>
+	 * Cuboid: length: _, width: _, height: _
+	 * </pre>
+	 * 
+	 * Where all the _ are to be filled by the Cuboid's corresponding info.
+	 * 
+	 * @return the Cuboid's information String.
+	 */
+	public String toString() {
+		// TODO: Fill here and change return value if necessary.
+		// TODO: reuse methods already implemented.
+		return null;
+	}
+}

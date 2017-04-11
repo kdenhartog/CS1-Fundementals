@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=MakeP2DataFile(java.lang.String)
+comment0.text=\ \n\ Constructor\ initializes\ input\ source\ &\ random\ number\ generator,\n\ opens\ output\ file;\ if\ FileNotFoundException\ is\ thrown,\ opens\ default\n\ output\ file\ in\ current\ directory\n\ \n
+comment1.params=
+comment1.target=void\ makeFile()
+comment1.text=\n\ makeFile\ method\ reads\ in\ student\ names,\ generates\ random\ test\ scores,\n\ and\ writes\ both\ out\ to\ screen\ &\ output\ file\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

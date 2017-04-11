@@ -1,0 +1,14 @@
+public class Zoo{
+  public static void main(String [] args){
+    public void addExhibit();
+    
+    public void setWorkerSalary(double salary);
+    
+    public void setAverageExhibitUpkeep(double upkeep);
+    
+    public double calculateProfitNeeded();
+  }
+}
+    
+  
+    

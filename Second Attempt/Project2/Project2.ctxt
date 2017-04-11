@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=tScoreAvg
+comment1.target=java.lang.String\ letterGrade(double)
+comment1.text=\n\ Inputs\ a\ number\ that\ is\ equal\ to\ the\ percentage\ recieved\ and\ outputs\ the\ letter\n\ grade\ that\ should\ be\ recieved.\n\n\ @param\ numGrade\:\ the\ grade\ recieved\ in\ number\ form.\n\ @return\ \ \ \ \ letter\ Grade\n
+numComments=2

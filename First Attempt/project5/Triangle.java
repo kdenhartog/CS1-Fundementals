@@ -1,0 +1,36 @@
+/**
+ * Painter
+ * this program allows you to create shapes in a GUI
+ *
+ * @Kyle Den Hartog
+ *
+ * @RMB Daskin, Anmer
+ *
+ * @10.29.12
+ *
+ */
+public class Triangle extends Shape {
+ int center_x;
+ int center_y;
+ int radius;
+ 
+ public Triangle(int center_x,int center_y,int radius){
+  this.center_x = center_x;
+  this.center_y = center_y;
+  this.radius = radius;
+ }
+
+ @Override
+ public void draw() {
+  int x1 = center_x-((int) (radius*Math.cos(30*(Math.PI/180))));
+  int x2 = center_x+((int) (radius*Math.cos(30*(Math.PI/180))));
+  int x3 = center_x;
+  int y1 = center_y+((int)(radius*Math.sin(30*(Math.PI/180))));
+  int y2 = center_y-radius;
+ 
+  drawLine(x1,y1,x2,y1);
+  drawLine(x2,y1,x3,y2);
+  drawLine(x1,y1,x3,y2);
+ }
+ 
+} 

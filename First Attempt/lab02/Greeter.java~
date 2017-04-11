@@ -1,0 +1,17 @@
+import.java.util.*;
+import.java.swing.*;
+
+public class Greeter
+{
+  public static void main(String [] args)
+  {
+    Scanner s = new Scanner(System.in);
+    
+    String userName = JOptionPane.showInputDialog(null, "Enter your name:");
+    
+    JOptionPane.showMessageDialog(null, "Hello,(User Entered Name);
+                                    }
+
+                                    
+    
+    

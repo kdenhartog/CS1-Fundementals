@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=month\ year
+comment0.target=Calendar(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Calender\n
+comment1.params=month\ year
+comment1.target=int\ startDay(int,\ int)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ month\ -\ the\ month\n\ @param\ year\ -\ the\ year\n\ @return\ startDay\ -\ an\ integer\ 0-6\ that\ represents\ the\ day\ of\ the\ week\n
+comment2.params=month\ year
+comment2.target=void\ calendarPrintMonth(int,\ int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment3.params=year
+comment3.target=void\ calendarPrintYear(int)
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment4.params=
+comment4.target=int\ monthIdentifier()
+comment4.text=\n\ An\ void\ method\ taking\ in\ a\ user\ input\ to\ identify\ the\ month\ they\ want\ to\ use\n\ Should\ be\ contained\ in\ the\ same\ class\ as\ the\ main\ method\n\ \n\ @return\ month\ -\ a\ number\ between\ 1\ and\ 12\ corresponding\ with\ the\ chosen\ month\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

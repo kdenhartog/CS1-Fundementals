@@ -1,0 +1,13 @@
+// Team composition
+// Team leader: <Gardner>, <Ryan>, <gardne16@purdue.edu>
+// Team member 1: <Den Hartog>, <Kyle>, <kdenhar@purdue.edu>
+// Team member 2: <Vessels>, <Brendan>, <bvessels@purdue.edu>
+
+// Team leader: <Gardner>, <Ryan>, <gardne16@purdue.edu>
+// <RequestActivity.java>
+
+// Team member 1: <Den Hartog>, <Kyle>, <kdenhar@purdue.edu>
+// <ResponseActivity.java>
+
+// Team member 2: <Vessels>, <Brendan>, <bvessels@purdue.edu>
+// <Server.java>
